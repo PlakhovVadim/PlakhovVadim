@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Welcome to me
+### I’m Vadim. Hello, world — I’m here! 
+### I’ve entered the world of zeros and ones. And btw.... I use Arch Linux))
 <!--
 **PlakhovVadim/PlakhovVadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
