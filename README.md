@@ -1,5 +1,5 @@
-# Welcome!
-## I’m `Vadim`. Hello World — I’m here! `And btw....I use Arch Linux))`
+# Welcome, my name is `Vadim`!
+## Hello World — I’m here! `And btw....I use Arch Linux))`
 _____
 
 - [x] **I'm currently learning `Python, HTML and CSS`.** 
